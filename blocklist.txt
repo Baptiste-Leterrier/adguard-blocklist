@@ -25,3 +25,5 @@
 ||paloca.vn^
 ||www.muslimtours.ir^
 ||dailymotion.com^
+||contile.services.mozilla.com^
+||checkonline.home-assistant.io^
