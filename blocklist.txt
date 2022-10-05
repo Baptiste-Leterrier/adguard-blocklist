@@ -1,0 +1,26 @@
+! Title: 1Hosts (Xtra)
+! Last modified: 2022-10-05
+! ..............
+!  |URL: https://github.com/Baptiste-Leterrier/adguard-blocklist
+!  |Credits & ©: Baptiste Leterrier
+!  |Licence: MPLv2,
+!  | https://www.mozilla.org/en-US/MPL/2.0/
+!  /
+! ( Please report any issues related to this file.
+!  \......................................
+!  | GH: https://github.com/Baptiste-Leterrier/adguard-blocklist/issues
+!  | e-mail: github-adguard@coresentry.fr
+!  \____________________
+
+
+||maison-travaux.fr^
+||zoominfo.com^
+||peoplestack-pa.googleapis.com^
+||www.bnappzh.club^
+||mtalk.google.com^
+||hilarion-lar.com^
+||blockchaininc.site^
+||basilico.com.uy^
+||anonfox.com^
+||paloca.vn^
+||www.muslimtours.ir^
